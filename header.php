@@ -1,5 +1,7 @@
 <!DOCTYPE html>
 
+
+<!-- Como su nombre indica es la cabezera del chat previo a hacer el login / acceder a los usuarios ... -->
 <html lang="en">
 <head>
   <meta charset="UTF-8">
